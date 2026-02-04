@@ -10,7 +10,7 @@ import {
   Lock
 } from 'lucide-react';
 
-const OFFICIAL_URL = "https://impulsegram.shop/";
+const OFFICIAL_URL = "https://obrigado.impulsehub.com.br";
 
 const App: React.FC = () => {
   const [isVerifying, setIsVerifying] = useState(false);
