@@ -74,7 +74,7 @@ const App: React.FC = () => {
         {/* Hero Section */}
         <div className="text-center mb-8">
           <h2 className="text-3xl md:text-4xl font-extrabold text-slate-900 leading-tight mb-4">
-            I​m​р​u​l​ѕ​і​о​n​е​ ​ѕ​е​u​ ​I​n​ѕ​t​а​g​r​а​m​ ​с​о​m <br className="hidden md:block" />
+            Impulsione suas Redes Sociais<br className="hidden md:block" />
             <span className="text-blue-600">Autoridade e Segurança</span>
           </h2>
           <p className="text-base text-slate-500 max-w-xl mx-auto mb-8">
